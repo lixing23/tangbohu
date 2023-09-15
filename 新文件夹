@@ -1,1 +1,48 @@
 
+<html>
+    <head>
+            <title>HTNL5-百科</title>
+            <style>
+               .img{
+                width: 300;
+                height: 200;
+                /* align: left; */
+                
+                float:left;
+               }
+               .ji{
+                float: left;
+                /* size: 200; */
+               }
+               .con{
+                align:center;
+               }
+              
+            </style>
+    </head>
+    <body>
+            <div class="con">
+                <h1 align = "center">HTML5百科</h2>
+            
+                    <img hspace = "30" class="img" src="https://w.wallhaven.cc/full/jx/wallhaven-jxyopy.png" alt="传智博客设计学院UI设计师"/>
+                   
+                <div class="ji" aria-setsize="200">
+                    
+                    <hr size="3" color="#cccccc">
+                    <p>
+                        ●&nbsp;&nbsp;<strong>HTML5</strong> 是<strong>HTML</strong> 即超文本链接标识语言的第五个版本，目前得到了广泛的使用。
+                    </p>
+                    <p>●&nbsp;&nbsp;<strong>HTML5</strong> 草案的前身名为<strong>Web Application 1.0</strong> 。</p>
+                    <p>●&nbsp;&nbsp;2004年HTML5被<strong >WHATWG</strong>提出。</p>
+                    <p>●&nbsp;&nbsp;2007年HTML5被<strong>W3C</strong>接纳，W3C还成立了新的<strong>HTML</strong>工作团队。</p>
+                    <p>●&nbsp;&nbsp;2008年1月22日，HTML5第一份正式草案公布。</p>
+                    <div>
+                        <hr size="3" color="#cccccc">
+                        <a href="./page2.html"><img src="./images1/down.png" alt="下一页" vspace="20"></a>
+                        <a href="./index.html"><img src="./images1/return.png" alt="返回" vspace="20" align = "right"/></a>
+                    </div>
+                </div>
+            </div>
+
+        </body>
+</html>
